@@ -9,7 +9,7 @@ let info = {
     }
   },
   description:
-    "I’m Usama and I am a front-end developer Studied Sound Engineering, Musical Production and now I design and develop smart and goodlooking front end applications.I am creative, proactive and restless Beach lover 🏖️, cooking enthusiast 👨‍🍳 and sport amateur My stack core is composed by HTML5, CSS3 and JavaScript. But I also use some of the main frameworks and libraries such as Bootstrap, Vue.js.",
+    "Hi, I am Usama Aslam, a Multi Stack Web developer with hands on experience. Being a Computer Science graduate, I have problem solving skills and software engineering ethics including Object Oriented Analysis and design. Good familiarity with Machine learning, NLP and computer vision algorithms.",
   links: {
     linkedin: "https://www.linkedin.com/in/usama-aslam-here",
     github: "https://github.com/usama47",
@@ -17,55 +17,98 @@ let info = {
   },
   education: [
     {
-      name: "KFS University",
-      place: "Kafr Elsheikh",
-      date: "sep, 2018 - present",
-      degree: "bachelor in software engineering",
+      name: "University of Engineering & Technology",
+      place: "Lahore",
+      date: "sep, 2017 - 2021",
+      degree: "Bachelor in Computer Science",
       gpa: "3.1/4.0",
       description:
         "",
       skills: [
         "Software Engineering",
-        "web programming",
-        "UI/UX design",
-        "Front-end developing",
+        "Web App Development",
+        "Computer Vision",
+        "Data Science",
+        "Machine Learnig",
+      ]
+    },
+    {
+      name: "Punjab Group of Colleges",
+      place: "Lahore",
+      date: "sep, 2015 - 2017",
+      degree: "F.sc Eng",
+      description:
+        "",
+      skills: [
+        "Mathematics",
+        "Physics",
+        "Computer"
+      ]
+    },
+    {
+      name: "American Lycetuff School",
+      place: "Lahore",
+      date: "sep, 2013 - 2015",
+      degree: "Matric (Computer Science)",
+      description:
+        "",
+      skills: [
+        "Mathematics",
+        "Aloha",
+        "Computer",
       ]
     },
   ],
   experience: [
     {
-      name: "ITI",
-      place: "Kafr elSheikh, Egypt",
-      date: "1,sep, 2021 - 28,sep, 2021",
-      position: "VueJS web developer",
+      name: "Order Circle",
+      place: "Allied Consultants",
+      date: "May 2021 - present",
+      position: "Full Stack Developer",
       description:
-        "",
-      skills: ["HTML5", "CSS3", "Bootstrap", "JQuery", "Json", "JavaSript", "TypeSript", "es6", "VueJS"]
+        "Part of team of Ordercircle.com, did integrations and Refactoring of Payment Modules such as Stripe, Authorize.net and PayPal with Laravel and VueJs.",
+      skills: ["Laravel", "VueJS", "JQuery", "Json", "JavaSript", ".Net", "ES6", "Python"]
     },
     {
-      name: "Udacity",
-      place: "Egypt",
-      date: "Jun 2021 - Jan 2022",
-      position: "React Web Developer",
+      name: "Talis AI",
+      place: "Allied Consultants",
+      date: "Oct 2021 - May 2021 ",
+      position: "Front-end Developer",
       description:
-        "",
-      skills: ["Javascript", "Typescript", "ReactJS", "React-Redux", "webpack", "NLP"]
+        "Upgraded talisAi.com to ES6 with ReactJs / Material-UI, A B2B Business Intelligence and Risk Analysis Web-Application",
+      skills: ["ReactJs", "Azure", ".Net", "JQuery", "JavaSript", "ES6", "Python"]
     },
     {
-      name: "Freelancer",
-      place: "Egypt",
-      date: "jun, 2021 - sep, 2021",
-      position: "Junior UI/UX Designer",
-      description: "creating apps and web UI, Creating Interactive prototypes, Low fidelity and UX researches",
-      skills: ["figma", "Adobe XD", "Photoshop", "Illustrator"]
+      name: "Book Lawyer",
+      place: "Allied Consultants",
+      position: "Web Developer",
+      description:
+        "US based Online Lawyer booking Web-Application, developed with ReactJs.",
+      skills: ["ReactJs", "Material-UI", "JavaSript", "Django"]
     },
     {
-      name: "Technopolitan",
-      place: "Cairo, Egypt",
-      date: "Jan 2022 - Present",
-      position: "Mid-Level UI/UX Designer",
-      description: "part of team include project managers and developers to create technically feasible design, creating 95% of CRM of the company ,creating user experience and interface using adobe XD for best user solution ,finishing 80% of tasks before the target ",
-      skills: ["figma", "Adobe XD"]
+      name: "Asian Solutions Pvt. Ltd.",
+      place: "Lahore",
+      date: "Sep 2020 - Oct 2020",
+      position: "PHP Web Developer",
+      description:
+        "Started as a Junior web developer",
+      skills: ["Javascript", "PHP", "MySQL Server", "Laravel", "NLP"]
+    },
+    {
+      name: "Jolta Technologies",
+      place: "Lahore",
+      date: "Jan 2020 - sep 2020",
+      position: "Web Application developer",
+      description: "Worked on UrduFace, a facebook and Snapchat variant application in Pakistan.",
+      skills: ["ReactJs", "Adobe XD", "Linux Server", "React Native"]
+    },
+    {
+      name: "Freelanceer",
+      place: "Fiverr, Upwork",
+      position: "Data Science",
+      description: "Developed AI based Car Parking Secuirity System using Computer Vision and ML",
+      skills: ["Python", "AI", "ML", "Image Processing"]
     },
   ],
   skills: [
@@ -77,7 +120,7 @@ let info = {
     {
       title: "Language",
       info: [
-        "Python","Javascript","TypeScript","Java","C#"],
+        "Javascript","Python",".Net","SQL","C#"],
       icon: "fa fa-code"
     },
     {
@@ -88,7 +131,7 @@ let info = {
     },
     {
       title: "web technologies",
-      info: ["Vue", "React", "Node"],
+      info: ["Vue", "React", "Laravel", "Django", "Unity3D", "TensorFlow", "Node"],
       icon: "fas fa-laptop-code"
     },
   ],
